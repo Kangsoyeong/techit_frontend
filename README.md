@@ -1,3 +1,3 @@
 # techit_frontend
 
-![ch2](../techit_frontend/img/ch2.png)
+![ch2](https://github.com/Kangsoyeong/techit_frontend/blob/main/img/ch2.png)
