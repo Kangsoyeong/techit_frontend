@@ -14,3 +14,4 @@
 ![ch9](https://github.com/Kangsoyeong/techit_frontend/blob/main/img/ch9.png)
 
 ![ch10](https://github.com/Kangsoyeong/techit_frontend/blob/main/img/ch10.png)
+### 3주차
