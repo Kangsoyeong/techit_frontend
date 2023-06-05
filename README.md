@@ -18,3 +18,8 @@
 ![ch11](https://github.com/Kangsoyeong/techit_frontend/blob/main/img/ch11.png)
 
 ![ch12](https://github.com/Kangsoyeong/techit_frontend/blob/main/img/ch12.png)
+
+### 4주차
+![ch13](https://github.com/Kangsoyeong/techit_frontend/blob/main/img/ch13.png)
+
+![ch14](https://github.com/Kangsoyeong/techit_frontend/blob/main/img/ch14.png)
